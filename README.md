@@ -52,6 +52,8 @@ A Crypto Tracking website designed to provide real-time updates, historical data
 
    - Compare Two Coins: Compare the performance and metrics of two selected cryptocurrencies side-by-side.
 
+   - Added the functionality of Toggle ON/OFF Dark Mode.
+
 
 
 ## Contact
