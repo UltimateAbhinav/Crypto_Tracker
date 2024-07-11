@@ -26,13 +26,13 @@ A Crypto Tracking website designed to provide real-time updates, historical data
 
 ## User Interface
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](Documentation/s1.jpg)
+![App Screenshot](Documentation/s1_dark.jpg)
+![App Screenshot](Documentation/s2.jpg)
+![App Screenshot](Documentation/s3.jpg)
+![App Screenshot](Documentation/s4.jpg)
+![App Screenshot](Documentation/s5.jpg)
+![App Screenshot](Documentation/s6.jpg)
 
 
 
